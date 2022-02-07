@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9031596211",
+    "project_id": "el-barrio-57c9d",
+    "storage_bucket": "el-barrio-57c9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9031596211:android:c6fe78f32601b2d8bb18c6",
+        "android_client_info": {
+          "package_name": "com.mintic.elbarrioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9031596211-ddv6u1hvg8e8ccrc77ad8o1jb827pi18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUL4zeh5CJZ-UgF1V03jQMeWbspUW_n0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9031596211-ddv6u1hvg8e8ccrc77ad8o1jb827pi18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
